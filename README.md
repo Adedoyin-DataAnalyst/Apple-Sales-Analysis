@@ -1,6 +1,6 @@
 # Apple-Sales-Analysis
 
-This project was on the analysis of Apple Sales dataset extract valuable insights. To identify the sales trends over time, top ranking products, calculated revenue and used visualizations to present my findings effectively.
+This project was on the analysis of Apple Sales dataset extract valuable insights. To identify the sales trends over time, top ranking products, calculated revenue and used visualizations to present my findings effectively. The analysis was done with Excel and the data set was provided by [Quantum Analytics](https://quantumanalyticsco.org/)
 
 ## Data Insights
 - Profit by Month
